@@ -29,5 +29,16 @@ h1 {
     font-size: 30px;
 }
 
+a {
+    font-size: 30px;
+    color: #b3b7d1;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
 
 
