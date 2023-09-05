@@ -1,0 +1,33 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: "Maven Pro";
+    background-color: #2132b7;
+}
+
+h1 {
+    color: white;
+    font-weight: bold;
+    font-size: 60px;
+}
+
+#container {
+
+    padding: 10px;
+    margin: auto 10px;
+    text-align: center;
+}
+
+#timer {
+    font-size: 40px;
+    color: #b3b7d1;
+}
+
+#fulldate {
+    display: block;
+    font-style: italic;
+    font-size: 30px;
+}
+
+
+
